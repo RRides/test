@@ -1,1 +1,1 @@
-# RightRides is a hybrid passenger-chauffeur cooperative
+# RightRides is a multi-stakeholder cooperative serving passengers and chauffeurs.
