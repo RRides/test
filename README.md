@@ -5,20 +5,21 @@
 **The Plan**
 **1. Form a chaufeurred ride cooperative**
 **2. Publish plan**
-**3. Crowdfunding campaign**
+**3. Crowdfund seed money**
 **4. Build a transportation network**
-**5. Recruit drivers and incorporate local driver cooperatives.**
+**5. Recruit for chaufeur cooperatives.**
 **6. Alpha test with virtual passengers and real drivers.**
 **7. Beta test as another transportation network.**
-**8. On the day before Uber goes public, Drivers log out of all other transportation networks and exclusively provides rides on the cooperative network.
-**all your ride are belong to us**
+**8. Drivers, in their role as equal owners, log out of competing networks en mass, generating surge events and the resulting Tweetstorms.**
+**9. Declare responsibility and offer a complimentary membership, flat fares, and a dividend to new passengers.**
+**10. Repeat until Drivers earn a living wage logged into the cooperative transportation network exclusively.**
+**11. Tweet "all your ride are belong to us" to @uber @traviskachnik
 
 **Folders**
-**1. Crowdfunding**
 **2. RightRides**
-**3. Ridesharing cooperatives**
+**3. Driver cooperatives**
 **4. Transportation network**
 **5. Voting**
 **6. Marketing**
-**7. Public alendar**
+**7. Public Calendar**
 **8. Collaborative communication**
